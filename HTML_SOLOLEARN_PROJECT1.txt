@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<style> table, th, td {
+  	border: 1px solid black;
+  	border-collapse: collapse;
+	border-style: dotted;
+	}
+	
+</style>
+		<title>'Kyle's Food Blog'</title>
+
+		<!-- Start of html page -->
+		<h1 style = text-align: center"> Kyle Courchene </h1>
+	</head>
+	<!-- Current title -->
+
+
+	<body style = "color: #725AC1; background-color: #F7ECE1; border:2px solid #CAC4CE;">
+		
+		<p style = "text-align: center"><strong>Middle School Teacher</strong></p>
+
+	 <!-- Profile Picture -->
+	 	<p style = "text-align: center;"><img src="https://assets.vogue.com/photos/59132f18dc6868483f55b55a/master/w_2560%2Cc_limit/00-lede-the-rock.jpg" height="145px" width="120px" alt"Dwanye 'The Rock' Johnson" /></p>	
+	<hr/></hr/>
+		<!-- Summary description --> 
+		<h2 style = "text-align: center;">Summary</h2>
+		<p style = "text-align: center;">Middle School Teacher who is making a test blog to learn html. I will be incuding information from my resume including my educarional and peofessional history. </p>
+		
+		<!-- Education -->
+		<b><em>Education</em></b>
+		<ul>
+			<!-- Grad School -->
+			<li><b>University of North Florida - Master's in Business Administration</b> | Graduated 2019</li>
+			<br>
+			<!-- Under Grad -->
+			<li><b>University of Florida - Bachelor's in Business Administration</b> | Graduated 2016</li>
+		</ul>
+		<hr></hr>
+		<!-- Work Experience --> 
+		<b><em>Experience</em></b>
+		<ul> 
+			<!-- Baldwin -->
+			<li><b>Middle School Math Teacher - Baldwin Middle Senior High School</b> | 2022 - Present
+				<p>Responsible for supervising, educating, and supporting students to help them accomplish learning benchmarks for Math in the State of Florida.</p>
+			</li> 
+			<!-- Crowley -->
+			<li><b>Transportation Specialist - Crowley Logistics</b> | March 2019 - Feb 2022
+				<p>Specialized in moving freight for the US Department of Defense through the DFTS contract. Included booking trucks, negotiating rates, managing customer relationships, and working with other deprtments to help achieve company's goals.</p>
+			</li>
+			<!-- Baptist Medical Center -->
+			<li><b>Patient Care Logistics Center Specialist - Baptist Medical Center</b> | Dec 2017 - March 2019
+				<p>Coodrinated all activities and communication involved in transferring patients from one medical facility to another. Includes facilitationg communication between referring/recieving physicians and regional hospital facilites.</p>
+			</li>
+			<li><b>Patient Access Representative - Baptist Medical Center</b> | March 2017 - Dec 2017
+				<p>Registered new and returning patients, updated demographic information, verified insurance information, and collected copays and other forms of payment in a fast-paced emergency room.</p>
+			</li>
+			<li><b>Patient Transporter - Baptist Medical Center</b> | July 2016 - March 2017
+				<p>Coordinated with Nurses and Medical Specialists to safely transport patient's to tests and procedures, including surgeries, ultrasounds, and x-rays.</p>
+			</li>
+	<hr></hr>
+	<!-- Skills Table -->		
+	<h2><b><em>Skills</b></em></h2>
+	<p>	
+		<table>
+	 		<!-- Tech Skills -->
+	 		<tr>
+		   		<th>Technologies</th>
+		   		<td>HTML</td>
+		   		<td>SQL</td>
+		   		<td>Microsoft Office</td>
+			</tr>
+			
+			<!-- Industry experience -->
+			<tr>
+				<th>Industries</th>
+		   		<td>Education</td>
+		   		<td>Logistics</td>
+		   		<td>Healthcare</td>
+			</tr>
+			
+			<!-- Soft skills -->
+			<tr>
+		   		<th>Soft Skills</th>
+		   		<td>Problem Solving</td>
+		   		<td>Teamwork</td>
+		   		<td>Flexibility</td>
+	   		</tr>
+			 
+		</table>
+	</p>
+	<hr></hr>	
+		<!-- Contacts Section -->
+		<h2><b><i>Contacts</i></b></h2>
+		<a href="https://www.sololearn.com/profile/25614922" target="_blank">Sololearn</a> 
+		</br>
+		<a href="https://www.linkedin.com/in/kyle-courchene-3b281b126"target="_blank">Linkedin</a>
+		<hr></hr>
+
+		<!-- Write me a message -->
+		<h2><b><i>Write Me A Message</i></b></h2>
+		<form>
+			<input placeholder="Name"></br>
+			<input placeholder="Email"></br>
+			<textarea placeholder="Message"required></textarea></br>
+			<input type="submit" value="SEND"/>
+		</form>
+
+	</body>
+</html>
